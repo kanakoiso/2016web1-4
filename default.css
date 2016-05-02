@@ -7,33 +7,20 @@
  </head>
  <body>
  body{
-   background-image: ur1(/image/地元写真.JPG);
-   background-repeat: repeat-x;
+  background-color:#fbf9cc;  /*背景色*/
+   background-image: ur1(/image/地元写真.JPG);  /*背景画像*/
+   background-repeat: repeat-x;  /*横に繰り返す*/
  }
- 
- h1{
-  font-size: 1.75em;
-  color: #3399cc;
-}
-h2{
-  font-size: 1.25em;
-  color: #ffffff;
-}
-p{
-  font-size: 0.8em;
-  background-color:#3399cc;  /*段落の文字の色だけ変わる*/
-  color: #333333;
-}
-li{
-  font-size: 0.8em;
-color: #333333;
-}
-a{
- color:#df4839;
-}
-a:hover{
- color:#ff705b; /*マウスが乗った時だけ特別な色*/
-}
+.cat{
+  font-size: 70%;
+ }
+ .male{
+  color:32793a7;
+ }
+ .female{
+  color:#df972f;
+ }
+
 
  </body>
  </htnl>
