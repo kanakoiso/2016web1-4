@@ -5,13 +5,13 @@
    background-image: ur1(/image/地元写真.JPG);  /*背景画像*/
    background-repeat: repeat-x;  /*横に繰り返す*/
  }
-cat{
+.cat{
   font-size: 70%;
    font-weight:bold;
  }
- cat male{
+ .cat male{
   color:#32793a;
  }
- cat female{
+ .cat female{
   color:#df972f;
  }
