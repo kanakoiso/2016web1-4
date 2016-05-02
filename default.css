@@ -9,9 +9,9 @@
   font-size: 70%;
    font-weight:bold;
  }
- .cat male{
+ .cat.male{
   color:#32793a;
  }
- .cat female{
+ .cat.female{
   color:#df972f;
  }
