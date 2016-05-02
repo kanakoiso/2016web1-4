@@ -7,7 +7,8 @@
  </head>
  <body>
  body{
-   background-image: ur1(/image/);
+   background-image: ur1(/image/地元写真.JPG);
+   background-repeat: repeat-x;
  }
  
  h1{
