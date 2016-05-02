@@ -9,10 +9,9 @@
   font-size: 70%;
    font-weight:bold;
  }
- .male{
-  color:32793a7;
+ .cat.male{
+  color:#32793a;
  }
- .female{
+ .cat.female{
   color:#df972f;
  }
-
